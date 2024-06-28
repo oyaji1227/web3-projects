@@ -8,13 +8,3 @@ Smart Contract address (ERC-20 example token): https://testnet.bscscan.com/addre
 1. git clone
 2. npm install
 3. npm start
-
-## Referências
-
-Tutorial em: https://www.luiztools.com.br/post/como-monitorar-eventos-da-blockchain-com-nodejs-web3-js/
-
-Conheça meu curso de web3, blockchain e solidity: https://www.luiztools.com.br/curso-web23
-
-Me siga nas redes sociais: https://about.me/luiztools
-
-Receba novidades no Telegram: https://t.me/luiznews
